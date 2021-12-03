@@ -25,7 +25,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
- 
+ //后端页面
 @Controller
 @RequestMapping("")
 public class CategoryController {
